@@ -1,0 +1,25 @@
+{
+  "name": "Pysual",
+  "version": "1.0.0",
+  "description": "![Banner](img/banner.png) <hr>",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^13.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechPenguineer/Pysual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechPenguineer/Pysual/issues"
+  },
+  "homepage": "https://github.com/TechPenguineer/Pysual#readme"
+}
