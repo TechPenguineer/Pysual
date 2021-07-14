@@ -1,2 +1,4 @@
-# Pysual
- Python coding made visual
+![Banner](img/banner.png)
+<hr>
+
+### **Python coding made visual**
