@@ -8,6 +8,7 @@ function createWindow () {
     height: 600,
     darkTheme: true,
     title: "Pysual",
+    icon: "./img/ico.png",
     webPreferences: {
         nodeIntegration: true,
         contextIsolation: false,
