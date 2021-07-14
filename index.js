@@ -1,19 +1,21 @@
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
 
+
 function createWindow () {
   const mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
-    autoHideMenuBar: true,
     darkTheme: true,
-    
+    title: "Pysual",
     webPreferences: {
         nodeIntegration: true,
         contextIsolation: false,
+        titleBarStyle: "hidden", // add this line
+
     }
   })
-  mainWindow.loadFile('index.html')
+  mainWindow.loadFile('./src/index.html')
   mainWindow.maximize()
 }
 

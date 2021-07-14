@@ -4,6 +4,7 @@
   "description": "![Banner](img/banner.png) <hr>",
   "main": "index.js",
   "dependencies": {
+    "custom-electron-titlebar": "^3.2.7",
     "electron": "^13.1.6"
   },
   "devDependencies": {},
