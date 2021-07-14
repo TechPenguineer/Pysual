@@ -24,3 +24,8 @@ input[type=file]::file-selector-button:hover{
     transition: .5s;
     box-shadow: 3px 3px 3px 3px black;
 }
+.create_prj{
+    position: relative;
+    left: 61vw;
+    top: 5vh;
+}
