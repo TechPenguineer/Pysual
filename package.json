@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "custom-electron-titlebar": "^3.2.7",
-    "electron": "^13.1.6"
+    "electron": "^24.1.2"
   },
   "devDependencies": {},
   "scripts": {
